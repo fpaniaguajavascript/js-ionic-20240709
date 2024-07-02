@@ -1,0 +1,6 @@
+Enlaces:
+
+Repositorio curso en github: https://github.com/fpaniaguajavascript
+JavaScript en Mozilla: https://developer.mozilla.org/es/docs/Web/JavaScript
+JavaScript en AWS: https://aws.amazon.com/es/what-is/javascript/
+Operadores de JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators
