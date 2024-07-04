@@ -4,3 +4,19 @@ Repositorio curso en github: https://github.com/fpaniaguajavascript
 JavaScript en Mozilla: https://developer.mozilla.org/es/docs/Web/JavaScript
 JavaScript en AWS: https://aws.amazon.com/es/what-is/javascript/
 Operadores de JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators
+
+Enlaces Ángel:
+Curso visual interactivo git 
+https://learngitbranching.js.org/?locale=es_ES
+
+Cursos github y git desde cero
+Midudev
+https://youtu.be/niPExbK8lSw?si=gx3e88DqOR1oonZI
+
+Mouredev 
+https://youtu.be/3GymExBkKjE?si=QrGccGmJ4JtMg6tW
+
+https://midu.dev/buenas-practicas-escribir-commits-git/
+
+Tutorial github actions 
+https://youtu.be/sIhm4YOMK6Q?si=TMPLKszmX0KMrpxq
