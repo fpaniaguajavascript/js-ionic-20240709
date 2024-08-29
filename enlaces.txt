@@ -20,3 +20,6 @@ https://midu.dev/buenas-practicas-escribir-commits-git/
 
 Tutorial github actions 
 https://youtu.be/sIhm4YOMK6Q?si=TMPLKszmX0KMrpxq
+
+Cambio de icono de las APPS ionic
+https://medium.com/@velizdj/splash-screen-and-launch-icons-for-ionic-apps-using-capacitor-d92d4052baaf
